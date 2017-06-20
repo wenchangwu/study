@@ -5,7 +5,10 @@
   <groupId>com.oriental.finance</groupId>
   <artifactId>study</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <modules>
+    <module>rabbit</module>
+  </modules>
+  <packaging>pom</packaging>
 
   <name>study</name>
   <url>http://maven.apache.org</url>
